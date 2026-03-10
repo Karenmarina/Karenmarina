@@ -126,7 +126,7 @@ React • NestJS • GraphQL • MySQL • Prisma • TypeScript
 
 Conception et développement d'une fonctionnalité permettant de **rechercher des télétravailleurs par zone géographique** sur une carte interactive.
 
-### Fonctionnalités
+### Fonctionnalités développées
 
 - Recherche par localisation
 - Affichage des profils utilisateurs
