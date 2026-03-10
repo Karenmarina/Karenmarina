@@ -38,6 +38,27 @@ Je m'intéresse particulièrement au développement d'applications web modernes 
 
 # 🚀 Projets
 
+## 🛠️ Projet en cours
+
+### 🛍️ Boutique en ligne – Next.js & Stripe
+
+Je travaille actuellement sur le développement d'une boutique en ligne afin d'expérimenter l'intégration de l'API de paiement Stripe et l'utilisation du framework Next.js.
+
+L'objectif de ce projet est de mieux comprendre la mise en place d'un système de paiement sécurisé et la gestion d'un parcours utilisateur e-commerce.
+
+### État actuel du projet
+
+- Conception du wireframe terminée
+- Réalisation de la maquette en cours
+- Développement à venir avec Next.js
+
+### Technologies prévues
+
+Next.js  
+Stripe API  
+React  
+Tailwind CSS
+
 ---
 
 ## 🎬 Festival de Vidéo Courte – Projet d'équipe
