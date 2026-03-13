@@ -49,8 +49,8 @@ L'objectif de ce projet est de mieux comprendre la mise en place d'un système d
 ### État actuel du projet
 
 - Conception du wireframe terminée
-- Réalisation de la maquette en cours
-- Développement à venir avec Next.js
+- Réalisation de la maquette terminée
+- Développement en cours avec Next.js
 
 ### Technologies prévues
 
