@@ -14,7 +14,6 @@ Je m'intéresse particulièrement au développement d'applications web modernes 
 - JavaScript
 - TypeScript
 - HTML / CSS
-- PHP
 
 **Frameworks & librairies**
 - React
