@@ -51,6 +51,8 @@ L'objectif de ce projet est de mieux comprendre la mise en place d'un système d
 - Réalisation de la maquette terminée
 - Développement en cours avec Next.js
 
+📸 Suivre l’avancée du projet sur Instagram : https://www.instagram.com/kaillo.upcycling/
+
 ### Technologies prévues
 
 Next.js  
@@ -61,6 +63,8 @@ Tailwind CSS
 ---
 
 ## 🎬 Festival de Vidéo Courte – Projet d'équipe
+
+🔗 Voir le projet : https://marsai.aleca.dev/
 
 Ce projet a été réalisé dans le cadre de ma formation de développeuse web à La Plateforme.  
 Le client nous a demandé de concevoir et développer un site web pour un festival dédié à la création de vidéos courtes (format 1 minute 30) générées par l'IA, qui se déroulera à Marseille.
