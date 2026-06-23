@@ -153,8 +153,6 @@ Nom du dépôt : **Remote Frenchies**
 
 ## 📫 Me contacter
 
-LinkedIn  
-www.linkedin.com/in/karenmarina-castillo
+LinkedIn :   www.linkedin.com/in/karenmarina-castillo
 
-Mon portfolio
-https://mon-portfolio-dev-karencastillo.vercel.app/
+Mon portfolio : https://mon-portfolio-dev-karencastillo.vercel.app/
