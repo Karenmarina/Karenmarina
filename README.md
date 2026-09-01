@@ -39,26 +39,53 @@ Je m'intéresse particulièrement au développement d'applications web modernes 
 
 ## 🛠️ Projet en cours
 
-### 🛍️ Boutique en ligne – Next.js & Stripe
+### 🛒 Projet e-commerce – Projet d'équipe en cours
 
-Je travaille actuellement sur le développement d'une boutique en ligne afin d'expérimenter l'intégration de l'API de paiement Stripe et l'utilisation du framework Next.js.
+Le projet repose sur une architecture séparant le back-end et le front-end : un back-office basé sur un template WooCommerce permet la gestion des produits, tandis que le front-end est développé avec React.
 
-L'objectif de ce projet est de mieux comprendre la mise en place d'un système de paiement sécurisé et la gestion d'un parcours utilisateur e-commerce.
+Nous travaillons également sur l'intégration de Stripe afin de mettre en place un parcours de paiement sécurisé.
 
-### État actuel du projet
+### Fonctionalités et objectifs
 
-- Conception du wireframe terminée
-- Réalisation de la maquette terminée
-- Développement en cours avec Next.js
+- Affichage et gestion d'un catalogue de produits
+- Développement d'une interface e-commerce côté client
+- Communication entre le front-end et le back-end
+- Intégration d'un système de paiement avec Stripe
+- Travail collaboratif en équipe
 
 📸 Suivre l’avancée du projet sur Instagram : https://www.instagram.com/kaillo.upcycling/
 
-### Technologies prévues
+### Stack technique
 
-Next.js  
-Stripe API  
-React  
-Tailwind CSS
+React
+WooCommerce
+Stripe
+
+---
+
+## 🤝 U-Need – Plateforme d'entraide locale
+
+🔗 Explorer le projet : https://u-need-7etm.vercel.app/
+
+Face à la difficulté de trouver de l'aide pour de petites tâches du quotidien et au manque d'interactions entre voisins, notre équipe a imaginé U-Need, une plateforme web favorisant l'entraide locale entre particuliers.
+
+Nous avons conçu et développé cette application web responsive en trois mois, de la phase de maquettage jusqu'au déploiement avec Docker.
+
+### Le concept
+
+Les utilisateurs peuvent demander de l'aide à condition de participer eux aussi à la communauté en proposant leurs compétences et leurs services.
+
+Cette mécanique encourage la réciprocité et favorise la création d'un réseau d'entraide durable entre les Needers et les Helpers.
+
+### Stack technique
+
+**Frontend**
+- React
+- Tailwind CSS
+
+**Backend**
+- Express.js
+- MySQL
 
 ---
 
@@ -92,7 +119,7 @@ Le projet a été développé en équipe en suivant une organisation de travail 
 - Mise en place d'un menu déroulant moderne et responsive grâce à **Tailwind CSS**
 - Participation au développement du **formulaire de connexion administrateur** en collaboration avec un autre développeur (pair programming)
 - Implémentation du **système d'envoi d'emails pour la gestion du jury**
-- Création d'un système permettant au **jury de se connecter directement à son espace via un lien sécurisé contenant un token**
+- Création d'un système permettant au **jury de se connecter directement à son espace via un lien sécurisé**
 
 ### Organisation du projet
 
@@ -125,7 +152,7 @@ React • NestJS • GraphQL • MySQL • Prisma • TypeScript
 
 ---
 
-## 🌍 Application Mobile – Recherche de télétravailleurs
+## 🌍 Remote Frenchies – Recherche de télétravailleurs
 
 Conception et développement d'une fonctionnalité permettant de **rechercher des télétravailleurs par zone géographique** sur une carte interactive.
 
