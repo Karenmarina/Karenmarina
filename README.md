@@ -37,9 +37,9 @@ Je m'intéresse particulièrement au développement d'applications web modernes 
 
 # 🚀 Projets
 
-## 🛠️ Projet en cours
+## 🛠️ Projet en cours pour un client (équipe de 4 devs)
 
-### 🛒 Projet e-commerce – Projet d'équipe en cours
+### 🛒 Projet e-commerce
 
 Le projet repose sur une architecture séparant le back-end et le front-end : un back-office basé sur un template WooCommerce permet la gestion des produits, tandis que le front-end est développé avec React.
 
@@ -52,8 +52,6 @@ Nous travaillons également sur l'intégration de Stripe afin de mettre en place
 - Communication entre le front-end et le back-end
 - Intégration d'un système de paiement avec Stripe
 - Travail collaboratif en équipe
-
-📸 Suivre l’avancée du projet sur Instagram : https://www.instagram.com/kaillo.upcycling/
 
 ### Stack technique
 
