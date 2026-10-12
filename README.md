@@ -6,34 +6,6 @@ Après plusieurs expériences dans l'entrepreneuriat et la traduction, je me sui
 
 Je m'intéresse particulièrement au développement d'applications web modernes et à la collaboration en équipe sur des projets techniques.
 
----
-
-## 💻 Technologies
-
-**Langages**
-- JavaScript
-- TypeScript
-- HTML / CSS
-
-**Frameworks & librairies**
-- React
-- React Native
-- Node.js
-- Express.js
-- NestJS
-- GraphQL
-
-**Bases de données**
-- MongoDB
-- MySQL
-
-**Outils**
-- Git / GitHub
-- Docker
-- Render
-- Vercel
-
----
 
 # 🚀 Projets
 
