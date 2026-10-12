@@ -1,10 +1,8 @@
 # Bonjour, moi c'est Karen 👋
 
-Développeuse web fullstack junior basée en France, issue d'une reconversion professionnelle.
+Développeuse web fullstack basée en France, issue d'une reconversion professionnelle.
 
 Après plusieurs expériences dans l'entrepreneuriat et la traduction, je me suis spécialisée dans le développement web où j'ai travaillé sur des projets front-end et back-end en environnement Agile.
-
-Je m'intéresse particulièrement au développement d'applications web modernes et à la collaboration en équipe sur des projets techniques.
 
 
 # 🚀 Projets
